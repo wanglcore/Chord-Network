@@ -1,0 +1,9 @@
+stack 栈
+queue 队列
+heap 堆
+previous 先前的
+successor 后继
+ago 以前
+year 年
+external 外部的
+indifferent 无所谓的
